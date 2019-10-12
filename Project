@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <style>
+ div.a {
+         text-indent: 50px;
+        }
+
+div.b {
+         text-indent: 80px;
+      }
+
+div.c {
+         text-indent: 200px;
+      }
+
+div.c {
+         text-indent: 350px;
+      }
+
+img    {
+  border-radius: 50%;
+      }
+
+ </style>
+  </head>
+  <body>
+   
+     <div class ="a">
+     <img src="full_logo_light2.png" width="100" height="25">
+     </div>
+     <br>
+     <div class ="a">
+     <p><font face="Arial" size="5">Content Store</font></p>
+     </div>
+     <br>
+     
+    <div class ="b">
+      <p><font face="Arial" size="3.5" color="cyan"> Got bulk orders or almost
+    similar order ? Fill the order brief in an excel sheet</font></p>
+    </div>
+
+      <div class ="b">
+      <pre>
+        <font face="Calibri" size="3" color="grey"> 
+                     If you're wondering about an easy way to palce orders in large numbers, we provide a way customized just for that.
+                     Download our excel sheet, and fill the order brief in the prescibed format and submit. In case you need any help, <u>we</u>
+                     <u>are just a click away you in placeing your order</u>
+      </pre>
+     </div>
+      
+      <div class="b">
+      <textarea rows="2" cols="30" style="font-size: 12pt" font-face: "Calibri" font-color: "cyan">
+      Order via Excel Sheet
+      </textarea>
+      </div>
+      <br>
+      <br>
+      <br>
+      </div>
+  
+       <div class="b">
+        <div id="main">
+         
+         <div id="d2"> 
+          <img src="bird1.jpeg" width="50" height="50"> 
+         </div>
+           <div id="d1"> Blog / Article </div>
+        </div>
+       </div>
+
+      <div class ="b">
+      <pre>
+        <font face="Calibri" size="3" color="grey"> 
+                      Typically 450-400 word, an e-book is
+                      perfect for your target audience ranging
+                      from prospective customers to users
+      </pre>
+      </div>
+
+      <div class="b">
+      <textarea rows="2" cols="12" style= "font-size:10pt" "font-face:Calibri" "font-color: cyan">
+      Order
+      </textarea>
+      </div>   
+
+      <div class ="b">
+      <div id="main">
+       <div id ="d2"> <svg height="100" width="100">       
+      <circle cx="35" cy="50" r="30" stroke="cyan" stroke-width="3" fill="cyan" />
+      </svg>
+                  <pre>
+                    Newsletter / E-mailer
+                    from ₹1000
+                  </pre>
+      </div>
+      </div>
+     
+       
+</body>
+
+</html>
